@@ -1,4 +1,4 @@
-Here I can create A Food Store Which Can Order Different Recipes And Learn Categories Of Food Available. Description: 1.Food is any substance consumed to provide nutritional support and energy to an organism. 2.It can be raw, processed or formulated and is consumed orally by animals for growth, health or pleasure. 3.Food is mainly composed of water, lipids, proteins and carbohydrates.
+Here I can create A Dress up a fashion is to put on formal clothes for a special occasion. Here I discuss some options for our clients are 1.Unique Design, 2.Custom Tailoring, 3.Personal Tailor, 4.Alteration and 5.Bridal Services. Dresses will design by our own Designing pattern and also clients wish.
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
@@ -8,11 +8,11 @@ IDE: VS-Code
 
 Industry : Lifestyle
 
-Project Title : Foodie
+Project Title : Dress up a fashion
 
-Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+Problem Statement/Opportunity : Dress-Up is an interesting, attractive or relatively eye-catching piece of your outfit.
 
-Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+Project Description : Dress-UP is a type of clothing or accessories you wear. By fashion, a person tries to look attractive to flaunt their style nd also depends on the culture and occasion.
 
 Primary Azure Technology : Static Web Apps, App Service
 
