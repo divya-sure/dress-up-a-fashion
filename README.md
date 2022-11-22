@@ -18,7 +18,7 @@ Primary Azure Technology : Static Web Apps, App Service
 
 Static Web App URL : https://victorious-wave-041896110.2.azurestaticapps.net/contact.html
 
-App Services URL : https://foodieswebsite.azurewebsites.net/
+App Services URL : 
 
 ## My Website Link : https://victorious-wave-041896110.2.azurestaticapps.net/contact.html
 
