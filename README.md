@@ -37,4 +37,5 @@ App Services URL : https://dressupfashion.azurewebsites.net/
 ![Capture2](https://user-images.githubusercontent.com/116636938/203292690-62defe86-752d-4b2b-b1b0-784a44e2f34f.JPG)
 
 ## Azure Services Used
+<img width="867" alt="Screenshot 2022-11-23 154109" src="https://user-images.githubusercontent.com/116636938/203520936-d60c5809-b9bf-4ad2-a7c2-0100454452d9.png">
 
