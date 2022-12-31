@@ -20,6 +20,8 @@ Static Web App URL : https://victorious-wave-041896110.2.azurestaticapps.net/con
 
 App Services URL : https://dressupfashion.azurewebsites.net/
 
+## Project Video URL link : https://youtu.be/yq0WfCX570E
+
 ## My Website Link : https://victorious-wave-041896110.2.azurestaticapps.net/contact.html
 
 ## Home
